@@ -2,7 +2,7 @@
 <h3 align=center>Accidentes-Aereos-PI</h3>
 
 ---
-<p align=center><img src="https://th.bing.com/th/id/OIP.h98UvBu_yr_BsgFztzTzSwAAAA?pid=ImgDet&rs=1" height=200></p>
+<p align=center><img src="https://aeronoticias.com.pe/noticiero/wp-content/uploads/2020/02/Terminal-A%C3%A9rea-Internacional-JFK.jpg" height=200></p>
 
 ---
 ## Contenido
@@ -20,10 +20,10 @@ Para este proyecto de Data Analytics, el propósito de todo el trabajo es encont
 
 Existen algunos patrones interensantes que podrán observar en el [Análisis Exploratorio](./Analisis_Exploratorio.ipynb) junto a sus respectivas visulizaciones y conclusiones.
 
-En este contexto, este proyecto toma una profunda preocupación sobre la forma de registro de los datos que nos han proporcionado, la forma en la que se registran los accidentes podría ser mejor y más eficiente.
 
 <p align=center><img src="https://th.bing.com/th/id/R.eac2c83821b51153e7420766a08d5327?rik=y3Xv64SUVi%2fpiA&pid=ImgRaw&r=0" height=200></p>
 
+En este contexto, este proyecto toma una profunda preocupación sobre la forma de registro de los datos que nos han proporcionado, la forma en la que se registran los accidentes podría ser mejor y más eficiente.
 ## Repositorio
 
 <p align=center><img src="https://th.bing.com/th/id/OIP.tXLFnThYgg4QUI2R-KQHxAHaEK?pid=ImgDet&rs=1" height=200></p>
@@ -67,9 +67,34 @@ pip install -r requirements.txt
 ## Desarrollo y Herramientas
 Para el desarrollo de este proyecto se utilizaron herramientas como *librerías de python*, *jupyter notebook's*, *SQL Workbench* o *ChatGPT*, entre otras. Entre las librerías utilizadas están: *pandas*, *ntkl*, *re*, *numpy*, *pymysql*, *sqlalchemy* o *datetime*.
 
-<p align=center><img src="https://th.bing.com/th/id/OIP.WqdMmNrSKzbDWx0Yc9_VUgHaC_?pid=ImgDet&rs=1" height=60>
-<img src="https://miro.medium.com/max/765/1*qePzd2m_uIPvsozXYh89CQ.png" height=60> 
-<img src="https://th.bing.com/th/id/R.13e8ebca307d02e996f676ecaabdffb2?rik=Syl7UOWvJYGwSQ&pid=ImgRaw&r=0" height=60>
-<img src="https://th.bing.com/th/id/OIP.IDZGIlL9zPcQsl8xdhX2KwHaEV?pid=ImgDet&rs=1" height=60>
+<p align=center><img src="https://th.bing.com/th/id/OIP.WqdMmNrSKzbDWx0Yc9_VUgHaC_?pid=ImgDet&rs=1" height=80>
+<img src="https://miro.medium.com/max/765/1*qePzd2m_uIPvsozXYh89CQ.png" height=80> 
+<img src="https://th.bing.com/th/id/R.13e8ebca307d02e996f676ecaabdffb2?rik=Syl7UOWvJYGwSQ&pid=ImgRaw&r=0" height=80>
+<img src="https://th.bing.com/th/id/OIP.IDZGIlL9zPcQsl8xdhX2KwHaEV?pid=ImgDet&rs=1" height=80>
+<img src="https://th.bing.com/th/id/R.10327dc6812b05b66a2b6b44c55a097c?rik=nKIXnE7Aetd6Uw&pid=ImgRaw&r=0" height=80>
+<img src="https://th.bing.com/th/id/R.69107c46265ecc114173f2b2d6433209?rik=ikZgnCKxf3dQpA&pid=ImgRaw&r=0" height=80>
 </p>
 
+## Dashboard Interactivo
+
+El Dashboard interactivo, pensado para contribuir con la comprensión de los análisis hechos, está abordado desde la plataforma de Power BI. Trabajado con la base de datos SQL. Teniendo en el valores importantes como los KPI's o los múltiples gráficos que funcionan conjuntamente con los filtros para obtener la información requerida por el usuario. A continuación, se presenta una imagen del Dashboard realizado para este proyecto.
+
+<p align=center><img src="" height=200></p>
+
+## Contacto
+Respecto al proyecto, puede hacer un <em>fork</em> a su repositorios y trabajar con el. O bien, trabajar con el en este mismo repositorio, en una rama diferente y solicitar incorporar los cambios, a través de:
+
+- <img src="https://th.bing.com/th/id/R.229079c8f5240851cece598cf8eee770?rik=TvMiz3mBQ9DAlQ&riu=http%3a%2f%2fwww.techerator.com%2fwp-content%2fuploads%2f2013%2f06%2fGmail-Logo.png&ehk=whqP3PDQYFbziZN8i5yRAa9t7YY2hWS0gvPmKvxRoug%3d&risl=&pid=ImgRaw&r=0" height=15> Mail: [Gmail Profesional](mariagustin.prog@gmail.com)
+
+En caso de querer contactar con el desarrollador del proyecto:
+
+- <img src="https://th.bing.com/th/id/R.6f9a03bd4554e5454de1c79f4c91aadf?rik=OLlYUhJuVFf4RQ&pid=ImgRaw&r=0" height=20> LinkedIN: [Mariano Acosta Chico](https://ar.linkedin.com/in/mariano-agust%C3%ADn-acosta-chico-b67584266)
+
+- <img src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0" height=20> [Cuenta Personal de Instagram](https://www.instagram.com/mariagustin_017/)
+
+- <img src="https://th.bing.com/th/id/OIP.NGIDdVP6vw9ue_D-mrEVFQHaHa?pid=ImgDet&rs=1https://logos-download.com/wp-content/uploads/2016/09/GitHub_logo.png" height=20> [GitHub](https://github.com/Mariagustin-Prg/)
+
+---
+<h5 align=center>Este proyecto fue producido en el marco de estudios de Henry, en la etapa de Proyectos Individuales.</h5>
+<p align=center><img src="https://th.bing.com/th/id/OIP.367zRo1Vd57GRoXqjF6sxgAAAA?pid=ImgDet&rs=1" height=169></p>
+<hr>
